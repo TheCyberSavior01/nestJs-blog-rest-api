@@ -23,7 +23,7 @@
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
 ## Description
-
+--- Rest APIs for a blog application with authentication and authorization using Nest Js and Prisma ORM---
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
 ## Installation
